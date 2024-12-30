@@ -1,6 +1,6 @@
-# 🧬 replitranscriptilator
+# 🧬 dnasequencer
 
-You've reached the README.md of Arik Karim's DNA replitranscriptilator (replication-transcription-translation) tool! *Thanks for stopping by!*
+You've reached the README.md of Arik Karim's dnasequencer! *Thanks for stopping by!*
 
 ## ℹ️ Function
 
