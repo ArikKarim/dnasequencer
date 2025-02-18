@@ -1,11 +1,4 @@
-# 🧬 dnasequencer
+# DNA Sequencer
 
-You've reached the README.md of Arik Karim's dnasequencer! *Thanks for stopping by!*
-
-## ℹ️ Function
-
-I made this Python console-based program back in 9th grade to automate the replication-transcription-translation processes involved in DNA sequencing. It functions as a calculator where you input a string of DNA triplets, outputting the associated mRNA codon, tRNA anticodon, and amino acids! Load the main.py file into a Python IDE or programming environment with a console to test the program.
-
-## 💭 Contact
-
-arik.karim (at) gwu (dot) edu or my LinkedIn!
+## Run Instructions
+Import or copy/paste `main.py` into the IDE of your choice in a Python environment. Hit 'Run', input a combination of of adenine (A), guanine (G), cytosine (C), and thymine (T) DNA triplets into the console, and hit 'Enter' to output the associated mRNA codon, tRNA anticodon, and amino acids. Useful for processing large datasets of amino acid bases in a snap.
